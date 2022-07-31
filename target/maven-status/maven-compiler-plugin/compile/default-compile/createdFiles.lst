@@ -1,0 +1,6 @@
+Model/Dao/Conn.class
+Model/Usuario/Usuario.class
+Model/Dao/UsuarioDao.class
+Model/Dao/Conexao.class
+Model/Pessoa/Pessoa.class
+Model/Dao/BaseDao.class
